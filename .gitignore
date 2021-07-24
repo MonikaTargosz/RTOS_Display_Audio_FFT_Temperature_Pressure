@@ -1,0 +1,7 @@
+/Debug/
+*/Backup/
+*.launch
+*.project
+*.cproject
+*.mxproject
+*.ioc
